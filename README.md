@@ -77,3 +77,7 @@ Working on this project helped me:
 - Improve my data cleaning and modeling skills
 - Get comfortable writing DAX measures
 - Design dashboards that focus on insights, not just visuals
+
+## Author
+Swar Parikh
+Busniess Analyst | Data Analyst | Power BI | SQL | Python

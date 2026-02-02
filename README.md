@@ -80,4 +80,5 @@ Working on this project helped me:
 
 ## Author
 Swar Parikh
+
 Busniess Analyst | Data Analyst | Power BI | SQL | Python
